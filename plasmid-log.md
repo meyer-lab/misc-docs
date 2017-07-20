@@ -1,8 +1,5 @@
 
-Box | Number | Backbone | Insert | Portion sequenced | Bacterial Resistance
-Insert digest ends
-Linearize With
-Comments
+Box | Number | Backbone | Insert | Portion sequenced | Bacterial Resistance | Insert digest ends | Linearize With | Comments
 1	1	IRESpuro2	GFP	None, from Addgene (#16616)	 	NheI/BamHI	XhoI (CutSmart)	 
 1	2	IRESpuro2	AXL	AXL, entire insert	 	NheI/BamHI	XhoI (CutSmart)	 
 1	3	IRESpuro2	Tyro3	1kb from CMV	 	NheI/BamHI (internal BamHI)	XhoI (CutSmart)	 
